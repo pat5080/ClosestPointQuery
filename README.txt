@@ -22,4 +22,4 @@ Instructions:
 
 4. The program allows you to input a custom query point or the default (1.5,1.5,1.5). Then you must specify the maximum search distance.
 
-NOTE: The ply file to be read by the program is assigned in main.cpp. It's currently set to "icosahredron.ply" in the assets folder. To load a different ply file, change the file name in the const string filename variable in main.cpp. Remember that the pathway to the ply file is relative to the build folder. The doxygen_domentation directory contains index.html which can be opened in a web browser to view documented code.
+NOTE: The ply file to be read by the program is assigned in main.cpp. It's currently set to "icosahredron.ply" in the assets folder. To load a different ply file, change the file name in the const string filename variable in main.cpp. Remember that the pathway to the ply file is relative to the build folder.
